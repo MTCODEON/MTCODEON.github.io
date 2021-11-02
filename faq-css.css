@@ -1,0 +1,6 @@
+body {
+    background-color: #000000;
+    background-image: url('photos/slanted-gradient.svg');
+    background-attachment: fixed;
+    background-size: cover;
+}
