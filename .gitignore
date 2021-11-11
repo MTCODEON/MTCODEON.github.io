@@ -1,0 +1,2 @@
+# keeps the .idea/ folder local on your pc so it doesn't update to the remote repo server
+.idea/
